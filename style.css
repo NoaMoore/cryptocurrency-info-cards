@@ -1,0 +1,79 @@
+.header1{
+    /* border: 5px solid brown; */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    height: 15vh;
+    background-color: rgb(221, 219, 219);
+    border-bottom: 1px solid  rgb(67, 67, 67);
+}
+
+.header2{
+    /* border: 3px solid pink; */
+    padding-top: 20px;
+}
+
+.nav1{
+    padding-top: 2vh;
+    height: 10vh;
+}
+
+#pills-tabContent{
+    display: flex;
+    justify-content: space-between;
+    height: 61vh;
+    padding-top: 50px;
+    margin-top: 50px; 
+    overflow-y: auto; 
+    overflow-x: hidden;
+}
+
+.col-12, .col-md-6, .col-lg-4 {
+    margin-bottom: 20px; /* Add space between rows of cards */
+}
+
+.form-control me-2{
+    height: 10vh;
+    padding-top: 2vh;
+}
+
+.collapse{
+    width: 100%
+}
+
+.checkboxDiv{
+    float:right;
+}
+
+
+.flowerImage{   
+    float: right;
+    display: block;
+    padding-right: 20px;
+    margin-bottom: -50px;
+}
+
+.about{
+    overflow: hidden;
+}
+
+
+.currencyImage{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: solid black 1px;
+    
+}
+
+.cardContainer{
+    padding: 10px;
+}
+
+
+
+
+
+
